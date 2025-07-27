@@ -44,7 +44,7 @@ function App() {
               key={index}
               href={link.url}
               target='_blank'
-              className='bg-[#333333] text-center text-sm rounded-md py-2 font-semibold cursor-pointer hover:bg-[#c5f82a] hover:text-black duration-300 transition-all'
+              className='bg-[#333333] text-center text-sm rounded-md py-2 font-semibold cursor-pointer hover:bg-[#c5f82a] hover:text-black duration-300 transition-all focus:outline-none focus:bg-[#c5f82a] focus:text-black focus:bg-offset-2'
             >
               {link.title}
             </a>
