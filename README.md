@@ -37,8 +37,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo: click here](https://github.com/Devendra-singh-baghel/social-links-profile)
+- Live Site URL: [Live Preview: click here](https://devendra-singh-baghel.github.io/social-links-profile/)
 
 ## My process
 
